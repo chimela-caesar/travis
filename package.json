@@ -9,6 +9,7 @@
   "author": "chimela caesar",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+	"coveralls": "2.3.0"
   }
 }
